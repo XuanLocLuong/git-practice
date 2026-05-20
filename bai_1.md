@@ -25,3 +25,5 @@
 + ở dưới local tạo 1 branch tên feature_init: (ảnh_b1_bt1_3.png)
 + đẩy code lên branch feature_init: (ảnh: b1_bt1_4.png)
 + kiểm tra: (ảnh: b1_bt1_5.png)
+
+(Thực hành push bằng ssh)
