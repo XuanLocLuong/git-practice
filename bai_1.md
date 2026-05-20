@@ -23,4 +23,5 @@
 + Tạo repo: (ảnh: b1_bt1_1.png)
 + Cài đặt nhánh chính là master: (ảnh: b1_bt1_2.png)
 + ở dưới local tạo 1 branch tên feature_init: (ảnh_b1_bt1_3.png)
-+ đẩy code lên branch feature_init: 
++ đẩy code lên branch feature_init: (ảnh: b1_bt1_4.png)
++ kiểm tra: (ảnh: b1_bt1_5.png)
