@@ -82,3 +82,4 @@ Chuyển tới branch muốn merge vào rồi `git merge tên_nhánh_muốn_merg
 `git reset tên_file`: chỉ bỏ add một file cụ thể
 `git reset`: bỏ add tất các các file đã add gần nhất
 ---
+abcabc
