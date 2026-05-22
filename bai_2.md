@@ -79,6 +79,10 @@ Chuyển tới branch muốn merge vào rồi `git merge tên_nhánh_muốn_merg
 ### git reset
 * dùng để bỏ git add và git commit hiện tại về commit cũ
 * Cú pháp cụ thể: 
-`git reset tên_file`: chỉ bỏ add một file cụ thể
-`git reset`: bỏ add tất các các file đã add gần nhất
+`git reset mã_commit`: trở về commit có mã commit được liệt kê trong `git log --oneline`
+`git reset --hard mã_commit`: trở về commit đó và xoá các thay đổi ở các commit sau commit này
 ---
+### git remote
+* dùng để kiểm tra liên kết của local tới remote hiện tại gồm những remote nào
+* Cú pháp cụ thể: `git remote`
+<image src="image/b2_7.png">
