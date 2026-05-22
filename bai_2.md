@@ -75,6 +75,8 @@ VD: khi remote có cập nhật, muốn pull về mà local hiện tại đang c
 * dùng để merge 2 nhánh lại với nhau
 * Cách dùng cụ thể: 
 Chuyển tới branch muốn merge vào rồi `git merge tên_nhánh_muốn_merge`
+<image src="image/b2_8.png">
+sau khi merge xong thì sẽ vào màn hình nhập thông điệp để tự động commit, gõ ESC và :wq enter và enter tiếp để thoát, sẽ tự động commit các merge file
 ---
 ### git reset
 * dùng để bỏ git add và git commit hiện tại về commit cũ
