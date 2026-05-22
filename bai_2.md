@@ -16,16 +16,16 @@
 * Cú pháp cụ thể: `git clone đường_link_của_remote_source`
 * Clone một repo về local (Bài 4):
 1.Copy đường link remote source (github, gitlab, ...): 
-<img src="image/b3_1.png"/>
+<img src="image/b4_1.png"/>
 2.Vào một thư mục trống và open git bash tại đây:
-<img src="image/b3_2.png"/> 
+<img src="image/b4_2.png"/> 
 3.`git clone đường_link_remote_source` , enter để tải source về:
-<img src="image/b3_3.png">
+<img src="image/b4_3.png">
 ---
 ### git status
 * dùng để check trạng thái những file có thay đổi tính từ lần commit gần nhất
 * Cú pháp cụ thể: `git status` trong thư mục cần kiểm tra
-<img src="image/b3_4.png">
+<img src="image/b4_4.png">
 ---
 ### git add
 * Dùng để chọn các file cần lưu thay đổi cho lần commit tiếp theo
