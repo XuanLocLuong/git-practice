@@ -43,3 +43,4 @@ là khi merge code từ nhánh này vào nhánh kia
 + kiểm tra: (ảnh: b1_bt1_5.png)
 
 (Cherry pick 1)
+(Cherry pick 2)
