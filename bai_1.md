@@ -40,4 +40,11 @@ là khi merge code từ nhánh này vào nhánh kia
 + Cài đặt nhánh chính là master: (ảnh: b1_bt1_2.png)
 + ở dưới local tạo 1 branch tên feature_init: (ảnh_b1_bt1_3.png)
 + đẩy code lên branch feature_init: (ảnh: b1_bt1_4.png)
+<<<<<<< HEAD
 + kiểm tra: (ảnh: b1_bt1_5.png)
+=======
++ kiểm tra: (ảnh: b1_bt1_5.png)
+
+(Cherry pick 1)
+(Cherry pick 2)
+>>>>>>> ed4cfd6 (cherry pick 2)
