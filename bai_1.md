@@ -1,7 +1,7 @@
 # Bai 1
 
 ## Mục đích sử dụng git: 
-Sử dụng git để quản lý các version, lịch sử thay đổi của project
+Sử dụng git để lưu trữ code an toàn
 
 ---
 
